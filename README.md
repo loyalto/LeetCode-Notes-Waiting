@@ -1,6 +1,12 @@
 # LeetCode-Notes-Waiting
 算法笔记
 
+### 2021-02-27
+- [x] [给定一个包含 40亿 个无符号整数的大型文件，使用最多 1G 内存，对此文件进行排序](https://github.com/loyalto/LeetCode-Notes-Waiting/blob/master/2021-02-25/AVL%20%E6%A0%91%E5%92%8C%E7%BA%A2%E9%BB%91%E6%A0%91%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F.md)
+
+### 2021-02-26
+- [x] [实现快速排序](https://github.com/loyalto/LeetCode-Notes-Waiting/blob/master/2021-02-26/%E5%AE%9E%E7%8E%B0%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
+
 ### 2021-02-25
 - [x] [AVL 树和红黑树有什么区别？](https://github.com/loyalto/LeetCode-Notes-Waiting/blob/master/2021-02-25/AVL%20%E6%A0%91%E5%92%8C%E7%BA%A2%E9%BB%91%E6%A0%91%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F.md)
 
